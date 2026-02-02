@@ -1243,11 +1243,10 @@
         <i class="fas fa-phone"></i>
     </a>
 </div>
-
-<p style="color: var(--gray); margin-top: 1rem; font-size: 0.95rem;">
+<p style="color: var(--gray); margin-top: 1.5rem; font-size: 0.95rem; pointer-events: none;">
     📧 amjadnoshair@gmail.com
 </p>
-                <a href="#" class="contact-link" title="Download Resume" onclick="downloadResume()">
+           <a href="#" class="contact-link" title="Download Resume" onclick="downloadResume()">
                     <i class="fas fa-download"></i>
                 </a>
             </div>
@@ -1398,5 +1397,6 @@
 </body>
 
 </html>
+
 
 
